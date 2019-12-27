@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<nfse>
+  <nfse_teste>1</nfse_teste>
+  <nf>
+    <valor_total>375,00</valor_total>
+    <valor_desconto>0,00</valor_desconto>
+    <valor_ir>0,00</valor_ir>
+    <valor_inss>0,00</valor_inss>
+    <valor_contribuicao_social>0,00</valor_contribuicao_social>
+    <valor_rps></valor_rps>
+    <valor_pis>0,00</valor_pis>
+    <valor_cofins>0,00</valor_cofins>
+    <observacao></observacao>
+  </nf>
+  <prestador>
+    <cpfcnpj>21775027000126</cpfcnpj>
+    <cidade>8311</cidade>
+  </prestador>
+  <tomador>
+    <tipo>J</tipo>
+    <cpfcnpj>81315426000136</cpfcnpj>
+    <ie>250686929</ie>
+    <nome_razao_social>TUPER S/A</nome_razao_social>
+    <sobrenome_nome_fantasia>TUPER S.A.</sobrenome_nome_fantasia>
+    <logradouro>AVENIDA PREFEITO ORNITH BOLLMANN, 1441</logradouro>
+    <email>tuper@tuper.com.br</email>
+    <complemento></complemento>
+    <ponto_referencia></ponto_referencia>
+    <bairro>BRASILIA</bairro>
+    <cidade>SAO BENTO DO SUL</cidade>
+    <cep>89282427</cep>
+    <ddd_fone_comercial></ddd_fone_comercial>
+    <fone_comercial></fone_comercial>
+    <ddd_fone_residencial>47</ddd_fone_residencial>
+    <fone_residencial>36315</fone_residencial>
+    <ddd_fax></ddd_fax>
+    <fone_fax></fone_fax>
+  </tomador>
+  <itens>
+    <lista>
+      <codigo_local_prestacao_servico>8311</codigo_local_prestacao_servico>
+      <codigo_item_lista_servico>107</codigo_item_lista_servico>
+      <descritivo>Referente atividades sob-aloca��o primeira quinzena de dezembro de 2019: Chamado Solicitante Assunto Data Horas 133973 Cristal et0176 - envio para arcelor 15/12/2019 5:00:00</descritivo>
+      <aliquota_item_lista_servico>2,79</aliquota_item_lista_servico>
+      <situacao_tributaria>0</situacao_tributaria>
+      <valor_tributavel>375,00</valor_tributavel>
+      <valor_deducao>0,00</valor_deducao>
+      <valor_issrf>0,00</valor_issrf>
+      <tributa_municipio_prestador>S</tributa_municipio_prestador>
+      <unidade_codigo>2</unidade_codigo>
+      <unidade_quantidade>5,00</unidade_quantidade>
+      <unidade_valor_unitario>75,00</unidade_valor_unitario>
+    </lista>
+  </itens>
+</nfse>
